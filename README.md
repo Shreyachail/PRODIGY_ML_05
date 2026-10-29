@@ -8,6 +8,12 @@ This project uses a Convolutional Neural Network (CNN) to classify food images i
 
 ![Food Recognition Demo](food_prediction.png)
 
+## Live Demo
+
+**Try the application here:** https://foodvision-ml05.streamlit.app
+
+Upload a food image to get a predicted food category, prediction confidence, and approximate calorie estimate.
+
 ## Features
 
 * Food image classification using a trained CNN model.
