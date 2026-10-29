@@ -4,6 +4,10 @@ A Machine Learning project developed as part of the **Prodigy InfoTech Machine L
 
 This project uses a Convolutional Neural Network (CNN) to classify food images into five categories and estimate approximate calorie values using predefined reference data.
 
+## Project Demo
+
+![Food Recognition Demo](food_prediction.png)
+
 ## Features
 
 * Food image classification using a trained CNN model.
